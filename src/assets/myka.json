@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "myka.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1624,
+				"h": 1346
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Download98129.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 1344
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 0,
+						"w": 816,
+						"h": 1344
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 816,
+						"h": 1344
+					}
+				},
+				{
+					"filename": "Download99786.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 1344
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 13,
+						"w": 804,
+						"h": 1331
+					},
+					"frame": {
+						"x": 819,
+						"y": 1,
+						"w": 804,
+						"h": 1331
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:476b4f9706309d5c8ed43915d34c964a:f1215b012812599cb2a1ce12c1934d27:3697ce99e307f9a1121f5a735a752b8e$"
+	}
+}
